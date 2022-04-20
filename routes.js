@@ -1,13 +1,13 @@
 var routes = [
 
   {
-    path: "/dashboard",
+    path: "/home",
     name: "Home",
     icon: "fa fa-home text-black",
     layout: "/admin",
   },
     {
-    path: "/icons",
+    path: "/dashboard",
     name: "Dashboard",
     icon: "ni ni-tv-2 text-black",
     layout: "/admin",

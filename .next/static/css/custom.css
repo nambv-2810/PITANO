@@ -1,0 +1,37 @@
+.pi-price {
+  padding: 12px;
+  background: linear-gradient(
+    270deg,
+    rgba(66, 66, 66, 0.49),
+    rgba(66, 66, 66, 0.4753) 76.04%,
+    rgba(66, 66, 66, 0)
+  );
+  border: 1px solid #3e3e3e;
+  box-sizing: border-box;
+  -webkit-backdrop-filter: blur(47.2917px);
+  backdrop-filter: blur(47.2917px);
+  border-radius: 10px;
+  margin-right: 12px;
+}
+.home h1 {
+  font-weight: 500;
+  font-size: 96px;
+  line-height: 144px;
+  text-transform: uppercase;
+  color: #80ecfe;
+}
+.home h6 {
+  margin-top: 40px;
+  margin-bottom: 64px;
+  font-weight: 300;
+  font-size: 25px;
+  line-height: 35px;
+  color: #fff;
+}
+.home span {
+  margin-bottom: 64px;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 35px;
+  color: #fff;
+}
